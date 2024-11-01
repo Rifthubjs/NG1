@@ -1,0 +1,56 @@
+** in game settings**
+1. turn off all replays
+2. Turn colorblind off and 100 brightness
+3. turn off show fps
+4. Turn off motion blur
+5. turn off user interface parralax
+6. turn off Disable pre edit option
+7. make sure low input latency is on
+
+HUD OPTION*
+Spectate count on
+player health on
+minimap on
+Quick bar on
+Target info off
+Pickuploot stream off
+Map backpack keys off
+Elimation feed on
+Net Debug stats off
+quest progress off
+Control prompt off
+Creative runtime peformance  stats off
+
+TURN OFF ALL GYRO SETTINGS AND PUT TO THE LOWEST
+
+Playstation settings*
+1. Make sure your controller is plugged in
+2. Go to settings> Accessories > advanced settings
+turn off bluetooth
+3. Go to settings > Accessibelity Turn on reduce motion
+4. Go to network settings setup internet settings
+Press pause go to advanced settings
+primary dns 1.1.1.1
+Secondary dns 1.0.0.1
+
+5. Go to settings System HDMI
+turn off hdmi device link and enable HDCP
+6. Go to settings System web browser 
+turn off cookies enable Java script prevent cross site tracking after that
+clear website  data and delete cookies
+7. Go to settings save stats and game app
+settings game preset turn on peformance mode on
+8. go to settings accessories 
+Key Repeat (Delay) Short
+Key Repeat (Rate) Fast
+
+
+MOST IMPORTANT STEPS
+1. Turn off console ( do not put it in rest mode)
+2. Hold your ps button until you hear two beeps
+3. After that wait for safe mode to pop up
+4. go to clear cacshe and rebuild data
+(you have to do both individually)
+
+
+
